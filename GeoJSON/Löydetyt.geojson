@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Löydetyt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3067" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 375, "y": 6681664, "x": 193807, "VainioY": 166, "VainioX": 147, "Nimi": null, "Kuva": null, "ilmakuva": null }, "geometry": { "type": "Point", "coordinates": [ 193806.695626107975841, 6681664.268742578104138 ] } },
+{ "type": "Feature", "properties": { "id": 99234, "y": null, "x": null, "VainioY": null, "VainioX": null, "Nimi": null, "Kuva": null, "ilmakuva": 1 }, "geometry": { "type": "Point", "coordinates": [ 199304.800430753442924, 6658516.574469135142863 ] } },
+{ "type": "Feature", "properties": { "id": 99001, "y": null, "x": null, "VainioY": null, "VainioX": null, "Nimi": "Åvensor", "Kuva": "<img src=\"https://onedrive.live.com/embed?resid=14F2997871FB5368%2155005&authkey=%21AC6dSbt-CI0KHMo&width=1656&height=1656\" width=\"200\" height=\"200\">", "ilmakuva": 1 }, "geometry": { "type": "Point", "coordinates": [ 199984.222188677929807, 6696612.380514213815331 ] } },
+{ "type": "Feature", "properties": { "id": 99022, "y": null, "x": null, "VainioY": null, "VainioX": null, "Nimi": null, "Kuva": null, "ilmakuva": 1 }, "geometry": { "type": "Point", "coordinates": [ 193959.13385826771264, 6668605.895669292658567 ] } },
+{ "type": "Feature", "properties": { "id": 99212, "y": null, "x": null, "VainioY": null, "VainioX": null, "Nimi": "Uddas", "Kuva": null, "ilmakuva": 1 }, "geometry": { "type": "Point", "coordinates": [ 181464.899375685898121, 6662786.270600898191333 ] } },
+{ "type": "Feature", "properties": { "id": 99250, "y": null, "x": null, "VainioY": null, "VainioX": null, "Nimi": "Rågskär", "Kuva": null, "ilmakuva": 1 }, "geometry": { "type": "Point", "coordinates": [ 200054.096215732366545, 6668125.524805632419884 ] } },
+{ "type": "Feature", "properties": { "id": 99133, "y": null, "x": null, "VainioY": null, "VainioX": null, "Nimi": "Åvensor kaivosluola", "Kuva": null, "ilmakuva": 1 }, "geometry": { "type": "Point", "coordinates": [ 198380.750082803802798, 6697476.085726023651659 ] } },
+{ "type": "Feature", "properties": { "id": 99147, "y": null, "x": null, "VainioY": null, "VainioX": null, "Nimi": "Järvsor", "Kuva": null, "ilmakuva": 1 }, "geometry": { "type": "Point", "coordinates": [ 206702.837915005919058, 6692254.451727606356144 ] } }
+]
+}
